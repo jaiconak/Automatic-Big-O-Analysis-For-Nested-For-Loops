@@ -1,0 +1,7 @@
+n /* i /* sum /*
+The estimate variable */
+The control variable in the for loop */
+Variable(s) appeared in the loop body */
+for(i=0; i<n; i++) {
+     sum = sum + 2;
+}
